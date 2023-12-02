@@ -11,13 +11,13 @@
  2: columns renaming 
  3: dividing the data into more relevant three tables
  4: data manipulation 
- 5: connecting to sql server management studio
- 6: build sql tables with python
- 7: load data from csv file to sql tables 
+ 5: connecting to SQL Server management studio
+ 6: Build SQL tables with Python
+ 7: load data from CSV file to sql tables 
  8: some data exploration and visualization  
 
  with tableau:
- 1: two dashboards 
+ 1: two dashboards available on tableau public : https://public.tableau.com/views/bank_client_dash/campaign?:language=en-US&:display_count=n&:origin=viz_share_link
 
 
 

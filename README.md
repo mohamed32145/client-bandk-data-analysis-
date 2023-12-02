@@ -1,4 +1,4 @@
-                                                                      Bank Marketing campaign 
+                                                                                                       Bank Marketing campaign 
 
  source data: https://archive.ics.uci.edu/dataset/222/bank+marketing
  about data: The data is related with direct marketing campaigns of a Portuguese banking institution. The marketing campaigns were based on phone calls.

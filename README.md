@@ -6,7 +6,7 @@
 
  work done on this data:
  
- with python - pandas/numpy/pyodbc/seaborn/matplotlib:
+ with python - pandas/numpy/pyodbc/seaborn/matplotlib: banks_loans.ipynb
  1:  data cleaning
  2: columns renaming 
  3: dividing the data into more relevant three tables
